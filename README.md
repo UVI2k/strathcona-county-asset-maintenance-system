@@ -38,7 +38,7 @@ Outputs include both continuous `priority_score` and categorical `priority_band`
 
 ## Results
 - See: `outputs/top_50_priority_segments.csv`
-- See interactive map: `outputs/priority_map.html`  
+- See interactive map: https://<UVI2K>.github.io/<strathcona-county-asset-maintenance-system>/  
   Layers:
   - All Roads
   - High Priority (High + Very High)
